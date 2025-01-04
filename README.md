@@ -8,8 +8,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Vivek Krishnan M J](https://github.com/9sreerag7)
-2. [Sundara Siva Sreerag](https://github.com/Nandhu-D-Jitha)
+1. [Vivek Krishnan M J](https://github.com/Nandhu-D-Jitha)
+2. [Sundara Siva Sreerag](https://github.com/9sreerag7)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
